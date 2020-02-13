@@ -2,4 +2,4 @@
 
 print ("Hello, world")
 
-print ("Soy Alejandro y me gustan los videojuegos")
+print ("Soy Alejandro y me encantan los videojuegos")
